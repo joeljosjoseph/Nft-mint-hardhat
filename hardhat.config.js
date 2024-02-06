@@ -2,8 +2,7 @@ require("@nomicfoundation/hardhat-toolbox");
 
 const endpointUrl =
   "https://sepolia.infura.io/v3/c2b392f49aef4123a04af40ea30d0819";
-const privateKey =
-  "fc785b3e2c17e8aa7cde6b6e8d7224cddb87b9c8309472e5f9135bafb14874ec";
+const privateKey = "";
 
 module.exports = {
   solidity: "0.8.21",
